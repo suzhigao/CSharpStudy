@@ -1,4 +1,4 @@
-## Recording my C# learning journey
+## Recording my C# learning journey💻
 This is my record of learning C#. If you are also learning C#, you are welcome to add notes or learning methods. 
 In order to help yourself review and help others, please ensure the accuracy and high quality of the content. 
 Thank you! I look forward to growing with you!
